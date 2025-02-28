@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Nome do arquivo da planilha (ajuste conforme necessário)
-FILE_NAME = "dados.xlsx"  # Ou "dados.csv" se for CSV
+FILE_NAME = "destaques_pizza_com_text.csv"  # Ou "dados.csv" se for CSV
 
 # Título do app
 st.title("Visualizador de Planilha")
