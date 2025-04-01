@@ -4,9 +4,9 @@ import os
 
 # Nomes dos arquivos das planilhas
 FILES = {
-    "Planilha 1": "destaques_pizza_com_text.csv",  # Ou "dados1.csv"
-    "Planilha 2": "legendas_pizza_com_text.csv",  # Ou "dados2.csv"
-    "Planilha 3": "postagens_pizza_com_text.csv",  # Ou "dados3.csv"
+    "Planilha 1": "categorizado_pizzato_destaques.csv",  # Ou "dados1.csv"
+    "Planilha 2": "categorizado_pizzato_legendas.csv",  # Ou "dados2.csv"
+    "Planilha 3": "categorizado_teste_limpeza.csv",  # Ou "dados3.csv"
 }
 
 # Título do app
